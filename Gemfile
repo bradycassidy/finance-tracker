@@ -14,6 +14,8 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
+# Use Stock Quote gem to retrieve stock data
+gem 'stock_quote'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
